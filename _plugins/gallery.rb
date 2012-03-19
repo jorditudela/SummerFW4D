@@ -32,7 +32,7 @@ module Jekyll
 	module AssetFilter
 		def download_entry(input)      
 			info = File.basename(input, '.zip').split('-')[1..-1]
-			"Version: %1s IDE: %2s build config: %3s" % info
+			"%1s | %2s | %3s " % info
 		end
 	end
 end
