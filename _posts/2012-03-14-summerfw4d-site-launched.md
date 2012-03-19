@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "PureMVC4D Site launched!"
+title: "SummerFW4D Site launched!"
 category: News 
 tags: []
 ---
