@@ -4,7 +4,6 @@ title: "Overview"
 header: Overview
 group: navigation
 ---
-{% include JB/setup %}
  
 A Delphi Framwork for object persistence and other common tasks.
 

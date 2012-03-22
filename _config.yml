@@ -75,6 +75,7 @@ JB :
   tags_path : /tags.html
   overivew_path : /overview.html
   download_path : /download.html
+  pages_path : /pages.html
   
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

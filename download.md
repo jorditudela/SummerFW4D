@@ -4,7 +4,6 @@ title: "Download"
 group: navigation
 gallery: "ship/**/*.zip"
 ---
-{% include JB/setup %}
 
 ## Latest stable versions
 
@@ -12,7 +11,6 @@ gallery: "ship/**/*.zip"
 |---------|--------|-----------|----| {% for item in page.gallery_items %}
 | {{ item | download_entry }}  | <a href="{{ item }}">download</a> | {% endfor %}
 
-{{ gallery_items }}
 
 ## Contribute
 
